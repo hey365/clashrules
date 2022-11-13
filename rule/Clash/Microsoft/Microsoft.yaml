@@ -556,6 +556,7 @@ payload:
   - DOMAIN-SUFFIX,xamarin.com
   - DOMAIN-SUFFIX,xbox.co
   - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,xbox.eu
   - DOMAIN-SUFFIX,xbox.org
   - DOMAIN-SUFFIX,xbox360.co
